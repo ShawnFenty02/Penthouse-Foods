@@ -83,8 +83,8 @@
 	a:hover 						{ border-color:#ea2e49; }
 	section.intro div.summary p a,
 	div.explanation p a,
-	div.participation p a			{ color:#fff; }
-	div.participation p a:hover		{ border-color:#fff; }
+	div.juice p a			{ color:#fff; }
+	div.juice p a:hover		{ border-color:#fff; }
 
 	/* Paragraph styles */
 	p,
@@ -118,7 +118,7 @@
 	footer a 						{ margin-right:0.5em; }
 
 	div.explanation 				{ color:#fff; padding:5%; }
-	div.participation 				{ background:rgba(234,46,73,0.9); color:#fff; padding:5%; }
+	div.juice				{ background:rgba(234,46,73,0.9); color:#fff; padding:5%; }
 	div.benefits 					{ background:rgba(255,255,255,0.9); margin-top:10%; padding:5%; }
 	div.requirements 				{ background:rgba(255,255,255,0.9); padding:5%; }
 
@@ -142,7 +142,7 @@
 		aside.sidebar 				{ position:absolute; right:0; top:2.5%; width:32.75%; }
 		div.extra1 					{ background:rgba(51,55,69,0.9); bottom:0; right:0; position:fixed; top:0; width:30%; z-index:1; }
 		div.explanation 			{ float:left; width:50%; }
-		div.participation 			{ float:left; width:49%; }
+		div.juice 			{ float:left; width:49%; }
 		div.benefits 				{ float:left; }
 		div.requirements 			{ float:left; }
 	}
