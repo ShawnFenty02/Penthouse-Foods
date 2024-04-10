@@ -1,0 +1,44 @@
+header{}
+
+nav{
+  background: blue;
+}
+
+nav ul{
+  list-style-type: none;
+  margin: 0px;
+  padding:0px;
+  text-align: center;
+}
+
+nav ul li{
+    display: inline-block
+}
+
+nav ul li a, nav ul li a:active, nav ul li a:visited{
+   color: white;
+   text-decoration: none;
+}
+
+nav ul li a:hover{
+     color: yellow;
+}
+
+#main{
+   display: inline-block;
+}
+   
+section{
+   display: inline-block;
+   width:75vw; 
+}
+
+aside{
+    display: incline-block;
+    width: calc(25vw - 35px)
+}
+
+footer{}
+
+
+
