@@ -109,7 +109,7 @@
 
 	section.intro 					{ padding:5%; }
 	section.intro div.summary 		{ color:#fff; padding:15% 0; }
-	section.intro div.history 		{ background:rgba(255,255,255,0.9); color:#333; margin-left:-30%; padding:5% 5% 5% 30%; }
+	section.intro div.history 		{ background:#8491A3; color:#333; margin-left:-30%; padding:5% 5% 5% 30%; }
 	div.main 						{ padding:5%; }
 	aside.sidebar 					{ background:rgba(246,247,146,0.9); padding:5%; }
 	aside.sidebar ul 				{ padding:0.5em 0 2em 0; }
@@ -119,8 +119,8 @@
 
 	div.food 				{ color:#fff; padding:5%; }
 	div.juice				{ background:#25CED1; color:#fff; padding:5%; }
-	div.contact 					{ background:#5AA9E6; padding:5%; }
-	div.reviews 				{ background:#5AA9E6; padding:5%; }
+	div.contact 					{ background:#8491A3; padding:5%; }
+	div.reviews 				{ background:#8491A3; padding:5%; }
 
 	/* ---------------------------------------------------------------------------------------------------------- 
 	04 Media queries (using a mobile-first approach) ------------------------------------------------------------
